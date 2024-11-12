@@ -190,7 +190,9 @@ public sealed class Distance : IComparable<Distance>, IEquatable<Distance>
     public static Distance operator +(Distance a1, Distance a2) => new(a1.Meters + a2.Meters);
     public static Distance operator -(Distance a1, Distance a2) => new(a1.Meters - a2.Meters);
     public static Distance operator *(Distance distance, double scalar) => new(distance.Meters * scalar);
+    public static Distance operator *(double scalar, Distance distance) => distance * scalar;
     public static Distance operator /(Distance distance, double scalar) => new(distance.Meters / scalar);
+    public static Distance operator /(double scalar, Distance distance) => distance / scalar;
 
     #endregion
 
