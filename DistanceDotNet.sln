@@ -1,8 +1,8 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Distance", "Distance\Distance.csproj", "{7E273937-6D28-455C-9C03-162D5BDC7954}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DistanceDotNet", "DistanceDotNet\DistanceDotNet.csproj", "{7E273937-6D28-455C-9C03-162D5BDC7954}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DistanceTests", "DistanceTests\DistanceTests.csproj", "{21DA2407-2388-4AF8-B227-58A503B9AA02}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DistanceDotNetTests", "DistanceDotNetTests\DistanceDotNetTests.csproj", "{21DA2407-2388-4AF8-B227-58A503B9AA02}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

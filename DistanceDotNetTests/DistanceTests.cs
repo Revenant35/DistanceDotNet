@@ -1,6 +1,6 @@
-namespace DistanceTests;
+namespace DistanceDotNetTests;
 
-using Distance;
+using DistanceDotNet;
 using Bogus;
 
 [TestClass]

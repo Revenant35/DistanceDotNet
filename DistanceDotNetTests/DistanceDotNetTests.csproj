@@ -22,7 +22,7 @@
     </ItemGroup>
 
     <ItemGroup>
-      <ProjectReference Include="..\Distance\Distance.csproj" />
+      <ProjectReference Include="..\DistanceDotNet\DistanceDotNet.csproj" />
     </ItemGroup>
 
 </Project>

@@ -1,4 +1,4 @@
-﻿namespace Distance;
+﻿namespace DistanceDotNet;
 
 /// <summary>
 /// Represents a distance, providing conversions between various units.
